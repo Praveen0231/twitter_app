@@ -7,7 +7,7 @@
   <version>1.0-release</version>
   <name>amazon_app Maven Webapp</name>
   <url>http://maven.apache.org</url>    
-        <distributionManagement>  
+  run      <distributionManagement>  
 	<repository>
 		<id>nexus</id>
 		<name>Ashok IT Releases Nexus Repo</name>
