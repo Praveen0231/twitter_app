@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-  <modelVersion>2.0.0</modelVersion>maintainer
+  <modelVersion>2.0.0</modelVersion>
   <groupId>in.ashokit</groupId>
   <artifactId>amazon_app</artifactId>
   <packaging>war</packaging>
@@ -19,7 +19,7 @@
 		<name>Ashok IT Snapshots Nexus Repo</name>
 		<url>http://43.204.148.131:8081/repository/ashokit-snapshot/</url>
 	</snapshotRepository>	
-</distributionManagement> 
+</distributionManagement>
 
 <dependencies> 
   <dependency> 
